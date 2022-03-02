@@ -1,0 +1,4 @@
+Bounces 30
+Samples 100
+ClusterSize 10000
+UseThreads 1

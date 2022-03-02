@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Raytracer">
+      <UniqueIdentifier>{7a8a09a7-d9fe-44be-87ea-af528f8dba36}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Model">
+      <UniqueIdentifier>{f241586e-2f47-421a-bf14-a876e3b8018f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ThreadPool">
+      <UniqueIdentifier>{5cf6e327-3b01-4a71-b3b2-fd61841d5032}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\main.cpp" />
+    <ClCompile Include="src\Raytracer.cpp">
+      <Filter>Raytracer</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Model.cpp">
+      <Filter>Model</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\Raytracer.h">
+      <Filter>Raytracer</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Model.h">
+      <Filter>Model</Filter>
+    </ClInclude>
+    <ClInclude Include="src\math.h" />
+    <ClInclude Include="src\ThreadPool.h">
+      <Filter>ThreadPool</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
