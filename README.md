@@ -1,10 +1,11 @@
 # Differed Shading Pipeline
 Implementation of a Bidirectional Path Tracing in CPU enhanced with multithreading and KD-trees
 
-Solarized dark
+Solarized dark | SIUUUU
+:-------------------------:|:-------------------------:
 <p float="left">
-  <img src="/docs/picture2.png" width="200" />
-  <img src="/docs/picture2.png" width="200" /> 
+  <img src="/docs/picture2.png" width="400" />
+  <img src="/docs/picture2.png" width="400" /> 
 </p>
 
 Solarized dark             |  Solarized Ocean
