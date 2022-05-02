@@ -2,6 +2,7 @@
 Implementation of a Bidirectional Path Tracing in CPU enhanced with multithreading and KD-trees
 
 Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
 ![This is a alt text.](/docs/picture2.png)  |  ![This is a alt text.](/docs/picture6.png)
 
 # How to use the program:
