@@ -2,6 +2,10 @@
 Implementation of a Bidirectional Path Tracing in CPU enhanced with multithreading and KD-trees
 
 Bidirectional Path tracing 500 samples           Traditional Path tracing 500 samples
+
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
 <p float="left">
   <img src="/docs/picture2.png" width="400" />
   <img src="/docs/picture6.png" width="400" />
