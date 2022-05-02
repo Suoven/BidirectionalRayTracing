@@ -5,8 +5,10 @@ Solarized dark | SIUUUU
 :-------------------------:|:-------------------------:
 <p float="left">
   <img src="/docs/picture2.png" width="400" />
-  <img src="/docs/picture2.png" width="400" /> 
+  <img src="/docs/6.png" width="400" /> 
 </p>
+
+![This is a alt text.](/docs/picture2.png)   ![This is a alt text.](/docs/picture6.png)
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
