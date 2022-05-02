@@ -7,8 +7,8 @@ Bidirectional Path tracing 500 samples           Traditional Path tracing 500 sa
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
 <p float="left">
-  <img src="/docs/picture2.png" width="400" />
-  <img src="/docs/picture6.png" width="400" />
+  <img src="/docs/picture2.png" width="450" />
+  <img src="/docs/picture6.png" width="450" />
 </p>
 
 Solarized dark             |  Solarized Ocean
