@@ -1,4 +1,12 @@
-Bounces 30
-Samples 100
+
+SceneName Spheres.txt
+ScreenShotName screenshot.png
+ScreenSize 500 500
+Bounces 24
+EyePath 4
+LightPath 4
+Samples 1000
 ClusterSize 10000
 UseThreads 1
+UseBidirectional 1
+
