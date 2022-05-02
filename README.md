@@ -1,10 +1,10 @@
 # Differed Shading Pipeline
 Implementation of a Bidirectional Path Tracing in CPU enhanced with multithreading and KD-trees
 
-Solarized dark | SIUUUU
+Bidirectional Path tracing 500 samples           Traditional Path tracing 500 samples
 <p float="left">
-  <img src="/docs/picture2.png" width="400" title="Angular"/>
-  <img src="/docs/picture6.png" width="400" title="Angular"/> 
+  <img src="/docs/picture2.png" width="400" />
+  <img src="/docs/picture6.png" width="400" />
 </p>
 
 Solarized dark             |  Solarized Ocean
