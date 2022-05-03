@@ -1,4 +1,4 @@
-# Differed Shading Pipeline
+# Bidirectional Path Tracing
 Implementation of a Bidirectional Path Tracing in CPU enhanced with multithreading and KD-trees
 
 - Bidirectional vs Traditional Path Tracing 500 samples
